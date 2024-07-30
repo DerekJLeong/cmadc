@@ -1,0 +1,6 @@
+/dist
+/node_modules
+/research
+package-lock.json
+.DS_Store
+.env
