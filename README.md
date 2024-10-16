@@ -1,8 +1,8 @@
 # Configurable AI Multi-Agent Decision Chain
 
-Totally not finished, will finished later ✌️
+Totally not finished, will finish later ✌️
 
-It'd be pretty neat to combine this with vector databases, iykyk.
+It'd be pretty neat to combine this with vector databases, ikykik.
 
 ## 🏛️ Licensing
 ### cmadc
